@@ -1,4 +1,4 @@
-#🔥 Brandetectie Systeem 🔥#
+#🔥 Brandetectie Systeem 🔥
 
 Componenten:
 
@@ -14,6 +14,6 @@ Dit project is een perfecte combinatie van Internet of Things (IoT) technologie 
 
 Veiligheid staat voorop, en met dit branddetectiesysteem ben je een stap dichterbij het beschermen van mens en natuur.
 
- geschreven met chatGPT 
+geschreven met chatGPT 
 
 
